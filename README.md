@@ -7,5 +7,12 @@ JSON (JavaScript Object Notation) is a text-based standard for representing stru
 3.  It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 4.  It is low level (raw) form of data and is also human readable.
 5.  It helps developers in faster coding, in-turn reduces development cost.
+6. Multiple Security Layers
+7. A single instance - Million Indexes
+8. Inbuilt support for querying multiple databases
+9. Serverside Native NoSQL - best performance
+10. Multi-mode database - One solution to a variety of data
 
-[Contribution guidelines for this project](https://github.com/SarthakSinha03/JSON-HTML-code)
+####Screenshots
+
+[Release History](https://github.com/SarthakSinha03/JSON-HTML-code)
