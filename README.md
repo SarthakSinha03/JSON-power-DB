@@ -13,6 +13,7 @@ JSON (JavaScript Object Notation) is a text-based standard for representing stru
 9. Serverside Native NoSQL - best performance
 10. Multi-mode database - One solution to a variety of data
 
-####Screenshots
-
+## Screenshots
+![](https://github.com/SarthakSinha03/JSON-power-DB/blob/main/P2.PNG)
+![](https://github.com/SarthakSinha03/JSON-power-DB/blob/main/p3.PNG)
 [Release History](https://github.com/SarthakSinha03/JSON-HTML-code)
